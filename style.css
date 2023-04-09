@@ -472,15 +472,4 @@ ul h2{
       grid-template-columns: 1fr;
     }
   }
-  @media only screen and (max-width: 400px) {
-    #bell-icon {
-      display: none;
-    }
-    #mic-remove {
-      display: none;
-    }
-    .bell button {
-      margin: 0 3px;
-    }
-  }
 
