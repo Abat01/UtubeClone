@@ -380,7 +380,7 @@ ul h2{
     height: 65%;
   }
   @media only screen and (max-width: 1200px) {
-    .box2-alternative {
+    .box1 {
       display: block;
     }
     .box2,
@@ -395,9 +395,6 @@ ul h2{
     .container2 {
       min-width: 8%;
     }
-    #home-button:hover {
-      background-color: rgb(229, 227, 227);
-    }
     .container1 button {
       flex-direction: column;
       padding: 10px 0;
@@ -408,9 +405,6 @@ ul h2{
     }
     .container2 {
       max-width: 92%;
-    }
-    #home-button {
-      background-color: white;
     }
   }
   @media only screen and (max-width: 1100px) {
